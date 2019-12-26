@@ -93,7 +93,7 @@ class _LandingScreenState extends State<LandingScreen> {
   Widget build(BuildContext context) {
     return Scaffold(
       appBar: AppBar(
-        title: Text('OCR - Industry'),
+        title: Text('OCR'),
       ),
       body: Container(
         child: Center(
